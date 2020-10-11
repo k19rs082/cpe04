@@ -74,3 +74,6 @@
     button{
       font-style: italic;
     }
+    button{
+      border-radius: 20px;
+    }
